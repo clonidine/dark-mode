@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+::root {
+  --light-mode: #f0f8ff;
+  --dark-mode: #000000;
+}
+
+.dark-mode-box {
+  display: table;
+  margin: 0 auto;
+}
+
+.dark-mode-page-text {
+  font-family: 'Manrope';
+}
+
+.material-symbols-outlined {
+  font-size: 50px;
+}
